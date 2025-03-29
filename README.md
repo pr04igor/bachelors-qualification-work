@@ -30,8 +30,8 @@ Make sure you have the following installed on your system:
 ### 1. Clone the repository:
 
 ```sh
-git clone https://github.com/your-username/bugtracker.git
-cd bugtracker
+git clone https://github.com/pr04igor/bachelors-qualification-work.git
+cd bachelors-qualification-work
 ```
 
 ### 2. Set up the environment variables
