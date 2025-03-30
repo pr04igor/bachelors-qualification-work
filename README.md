@@ -1,6 +1,6 @@
 # Bug Tracker
 
-This project is a web-based bug tracking system designed to help teams manage and track software issues efficiently. It includes both a frontend built with React and a backend powered by Node.js and Express, using MongoDB as the database.
+This project is a web-based bug tracking system designed to help teams manage and track software issues efficiently. It allows users to register, log in, add bugs, and track their status.
 
 ## Technologies Used
 
@@ -86,6 +86,11 @@ The frontend will start at `http://localhost:3001`, and the backend will run at 
 - User roles and permissions
 - Advanced search and filtering
 - Email notifications for bug updates
+
+## Contact
+
+Project author: Igor Pron ([GitHub Profile](https://github.com/pr04igor))  
+For any questions, feel free to open an issue or submit a pull request! 🚀
 
 ## License
 
