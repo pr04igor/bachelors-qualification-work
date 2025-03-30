@@ -90,7 +90,7 @@ The frontend will start at `http://localhost:3001`, and the backend will run at 
 ## Contact
 
 Project author: Igor Pron ([GitHub Profile](https://github.com/pr04igor))  
-For any questions, feel free to open an issue or submit a pull request! 🚀
+For any questions, feel free to open an issue or submit a pull request!
 
 ## License
 
